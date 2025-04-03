@@ -1,14 +1,14 @@
 [
   {
-    "Name": "Laptop",
-    "Price": 1000
+    "ItemNumber": 0,
+    "ItemName": "Laptop",
+    "ItemStock": 0,
+    "ItemPrice": 1000
   },
   {
-    "Name": "Mouse",
-    "Price": 20
-  },
-  {
-    "Name": "Keyboard",
-    "Price": 50
+    "ItemNumber": 2,
+    "ItemName": null,
+    "ItemStock": 20,
+    "ItemPrice": 0
   }
 ]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\software\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj",
+      "projectUniqueName": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj",
       "projectName": "WarehouseManagementProgram.Console",
-      "projectPath": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\software\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj",
+      "projectPath": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj",
       "packagesPath": "C:\\Users\\leonb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\software\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\obj\\",
+      "outputPath": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

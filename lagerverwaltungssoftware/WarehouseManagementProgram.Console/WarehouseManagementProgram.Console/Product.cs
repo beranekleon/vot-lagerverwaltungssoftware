@@ -2,9 +2,14 @@
 
 public class Product
 {
-    public string Name { get; set; }
+    private int ItemNumber { get; set; }
+    private string ItemName { get; set; }
+    private int ItemStock { get; set; }
+    private decimal ItemPrice { get; set; }
 
-    //[JsonIgnore] --> can be used to ignore a property
-    public int Price { get; set; }
+    public Product(int ItemNumber, string ItemName, int ItemStock, decimal ItemPrice)
+    {
+
+    }
 }
 
