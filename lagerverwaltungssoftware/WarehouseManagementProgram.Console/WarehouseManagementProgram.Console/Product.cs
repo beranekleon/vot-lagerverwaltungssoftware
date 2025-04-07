@@ -1,15 +1,15 @@
-﻿using System.Text.Json.Serialization;
+﻿//using System.Text.Json.Serialization;
 
-public class Product
+class Product
 {
-    private int ItemNumber { get; set; }
-    private string ItemName { get; set; }
-    private int ItemStock { get; set; }
-    private decimal ItemPrice { get; set; }
+    //private int ItemNumber { get; set; }
+    //private string ItemName { get; set; }
+    //private int ItemStock { get; set; }
+    //private decimal ItemPrice { get; set; }
 
-    public Product(int ItemNumber, string ItemName, int ItemStock, decimal ItemPrice)
-    {
+    //public Product(int ItemNumber, string ItemName, int ItemStock, decimal ItemPrice)
+    //{
 
-    }
+    //}
 }
 
