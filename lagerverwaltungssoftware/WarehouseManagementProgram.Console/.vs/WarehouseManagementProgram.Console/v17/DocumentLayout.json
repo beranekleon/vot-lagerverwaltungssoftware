@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\",
+  "WorkspaceRootPath": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\users\\leonb\\documents\\github\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\warehousemanagementprogram.console\\warehousemanagementprogram.console\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\warehousemanagementprogram.console\\warehousemanagementprogram.console\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\users\\leonb\\documents\\github\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\warehousemanagementprogram.console\\warehousemanagementprogram.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\warehousemanagementprogram.console\\warehousemanagementprogram.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\users\\leonb\\documents\\github\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\warehousemanagementprogram.console\\warehousemanagementprogram.console\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\warehousemanagementprogram.console\\warehousemanagementprogram.console\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Product.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Product.cs",
               "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\Product.cs",
-              "ToolTip": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Product.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Product.cs",
               "RelativeToolTip": "WarehouseManagementProgram.Console\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserInterface.cs",
-              "DocumentMoniker": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\UserInterface.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\UserInterface.cs",
               "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\UserInterface.cs",
-              "ToolTip": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\UserInterface.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\UserInterface.cs",
               "RelativeToolTip": "WarehouseManagementProgram.Console\\UserInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Program.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Program.cs",
               "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\leonb\\Documents\\GitHub\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Program.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console\\Program.cs",
               "RelativeToolTip": "WarehouseManagementProgram.Console\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T07:31:43.642Z",
               "EditorCaption": ""
