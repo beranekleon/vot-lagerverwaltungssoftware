@@ -7,15 +7,6 @@
         {"q", ("end Program", () => EndProgram())}
     };
 
-    public void AppControl(string[] args)
-    {
-        //check if program was started with data in args[]
-        if (args.Length == 0)
-        {
-
-        }
-    }
-
     private void PrintActionsMenu()
     {
         while (true)
@@ -43,6 +34,7 @@
             }
         }
     }
+
     private static void PlaceholderFeature()
     {
         Console.WriteLine("Placholder...");
@@ -50,9 +42,16 @@
 
     private static void EndProgram()
     {
-        //logic to end program (i.e. serialize all data)
+        //logic to end program (serialize all data)
         Console.WriteLine("Shutting down...");
         Environment.Exit(0);
+    }
+
+    public static void MountDataSet()
+    {
+        Console.WriteLine("No valid Dataset recognized. Mount another Dataset? (y/n)");
+        //yes will prompt you to input a file path for a dataset
+        //no will create a new dataset
     }
 }
 
