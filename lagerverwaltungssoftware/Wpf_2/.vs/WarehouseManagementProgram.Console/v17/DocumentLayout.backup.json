@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\wpf_2\\warehousemanagementprogram.console\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\wpf_2\\warehousemanagementprogram.console\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\wpf_2\\warehousemanagementprogram.console\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\wpf_2\\warehousemanagementprogram.console\\appcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\appcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|c:\\oshri_shamonov\\programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\wpf_2\\warehousemanagementprogram.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACBA42E-45E2-4833-939A-D4CD415E768C}|WarehouseManagementProgram.Console\\WarehouseManagementProgram.Console.csproj|solutionrelative:warehousemanagementprogram.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\Dataset.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\Dataset.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\Dataset.cs",
+              "RelativeToolTip": "WarehouseManagementProgram.Console\\Dataset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:34:10.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\Product.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\Product.cs",
+              "RelativeToolTip": "WarehouseManagementProgram.Console\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:36:26.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppControl.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\AppControl.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\AppControl.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\AppControl.cs",
+              "RelativeToolTip": "WarehouseManagementProgram.Console\\AppControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:12:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\UserInterface.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\UserInterface.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\UserInterface.cs",
+              "RelativeToolTip": "WarehouseManagementProgram.Console\\UserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:01:28.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementProgram.Console\\Program.cs",
+              "ToolTip": "C:\\Oshri_Shamonov\\Programmieren\\vot-lagerverwaltungssoftware\\lagerverwaltungssoftware\\Wpf_2\\WarehouseManagementProgram.Console\\Program.cs",
+              "RelativeToolTip": "WarehouseManagementProgram.Console\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:31:43.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
