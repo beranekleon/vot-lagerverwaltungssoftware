@@ -1,16 +1,20 @@
 ﻿public class AppControl
 {
-    public void RunApp(string[] args)
-    {
-        //check if args is empty
-        if (args.Length == 0)
-        {
-            //if no args are given, run data insert logic
-            //if there is no data inserted, create new dataset
-            UserInterface.MountDataSet();
-        }
+    //temporarily save current Dataset in this class
+    Dataset dataset;
 
-        //if args (data) are given, print data, then action menu
+    public void RunApp()
+    {
+        InitApp();
+
+    }
+
+    private void InitApp()
+    {
+        //firstly user is prompted to mount a dataset
+        dataset = UserInterface.MountDataSet();
+
+        UserInterface.PrintDataset(dataset);
     }
 }
 

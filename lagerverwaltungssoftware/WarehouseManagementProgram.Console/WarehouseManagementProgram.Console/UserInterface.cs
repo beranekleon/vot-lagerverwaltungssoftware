@@ -7,6 +7,7 @@
         {"q", ("end Program", () => EndProgram())}
     };
 
+    #region internal methods
     private void PrintActionsMenu()
     {
         while (true)
@@ -47,11 +48,37 @@
         Environment.Exit(0);
     }
 
-    public static void MountDataSet()
+    #endregion
+
+    #region external methods
+    public static Dataset MountDataSet()
     {
-        Console.WriteLine("No valid Dataset recognized. Mount another Dataset? (y/n)");
-        //yes will prompt you to input a file path for a dataset
-        //no will create a new dataset
+        //this method reads the data for the program
+        //firstly the user will we prompted to provide/mount a dataset
+        Dataset dataset;
+        Console.Write("Mount an existing Dataset? (y/n)");
+        switch (Console.ReadLine())
+        {
+            case "y":
+                //prompt for path to existing dataset
+                Console.Write("\n Provide path to existing Dataset: ");
+                string file_path = Console.ReadLine();
+                dataset = Dataset.BuildExistingDataset(File.ReadAllText(file_path));
+                break;
+            case "n":
+                //if no dataset is provided, a new dataset will be created
+                //create new dataset
+                dataset = new Dataset();
+                break;
+        }
+        return dataset;
     }
+
+    public static void PrintDataset(Dataset dataset)
+    {
+        throw new NotImplementedException();
+    }
+
+    #endregion
 }
 

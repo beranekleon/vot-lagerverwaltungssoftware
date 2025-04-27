@@ -41,7 +41,7 @@ class Program
         //dafür einige tools recherchiert
         //Environment.Exit(0); --> beendet das programm sofort irrelavant wo man ist mit code 0 
         AppControl appControl = new AppControl();
-        appControl.RunApp(args);
+        appControl.RunApp();
     }
 }
 
