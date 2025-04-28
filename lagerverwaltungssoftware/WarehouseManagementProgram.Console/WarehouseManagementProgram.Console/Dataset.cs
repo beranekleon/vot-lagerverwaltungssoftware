@@ -2,14 +2,13 @@
 
 public class Dataset
 {
-    List<Product> products = new List<Product>();
+    public List<Product> Products { get; set; } = new List<Product>();
 
-    public static Dataset BuildExistingDataset(string Data)
+    public void Print()
     {
-        Product product = JsonSerializer.Deserialize<Product>(Data);
-        Dataset dataset = new Dataset();
-        dataset.products.Add(product);
-        return dataset;
+        foreach (Product product in Products)
+        {
+            Console.WriteLine(product.ToString());
+        }
     }
 }
-

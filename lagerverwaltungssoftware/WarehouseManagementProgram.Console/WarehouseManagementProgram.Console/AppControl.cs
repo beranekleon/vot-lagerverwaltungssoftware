@@ -1,6 +1,7 @@
-﻿public class AppControl
+﻿using System.Text.Json;
+
+public class AppControl
 {
-    //temporarily save current Dataset in this class
     Dataset dataset;
 
     public void RunApp()
@@ -11,10 +12,22 @@
 
     private void InitApp()
     {
-        //firstly user is prompted to mount a dataset
-        dataset = UserInterface.MountDataSet();
+        Console.WriteLine("Lagerverwaltungssoftware v0.1");
+        Console.Write("Path to Dataset: ");
+        string file_path = Console.ReadLine();
+        if (file_path == "")
+        {
+            dataset = new Dataset();
+        }
+        else
+        {
+            string JsonFromFile = File.ReadAllText(file_path);
+            dataset = JsonSerializer.Deserialize<Dataset>(JsonFromFile);
+        }
 
-        UserInterface.PrintDataset(dataset);
+        dataset.Print();
+        UserInterface.PrintActionsMenu();
     }
+
 }
 
